@@ -1,0 +1,12 @@
+html{
+
+    margin: 0px;
+    padding: 0px;
+
+    scroll-behavior: smooth;
+}
+
+
+.corPrimaria{
+    background-color: rgb(255, 180, 31);
+}
